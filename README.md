@@ -1,4 +1,4 @@
-# Freelancer Web Developer
+# Design and Development
 ## Who am I, and how can I help you?
 
 I am a web developer with 2 years of experience. I've completed several projects and small fixes for my clients, achieving a 90% satisfaction rate. My expertise primarily lies in front-end development, but I am also confident in my back-end development skills. Some of the skills I have mastered include:
