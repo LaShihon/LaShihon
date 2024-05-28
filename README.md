@@ -1,3 +1,5 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LaShihon)](https://github.com/anuraghazra/github-readme-stats)
+
 # Design and Development
 ## Who am I, and how can I help you?
 
@@ -31,3 +33,4 @@ Time tracking and invoicing are managed via Upwork Direct Contracts, ensuring a 
 ## Contact Me
 
 You can reach me on Github, through my Biztog.com , or by email at Philemon@biztog.com.
+
