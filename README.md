@@ -20,7 +20,7 @@ Time tracking and invoicing are managed via Upwork Direct Contracts, ensuring a 
 
 ### Contact Me
 
-You can reach me on Reddit, through my GitHub Portfolio, or by email at Philemon@biztog.com.
+You can reach me on [Reddit](https://www.reddit.com/user/Shih0n/), or through my [GitHub Portfolio](https://github.com/LaShihon).
 
 
 - 🔭 I’m currently working on A Web Dev Project 
